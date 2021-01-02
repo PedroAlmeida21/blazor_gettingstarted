@@ -1,0 +1,9 @@
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\bin\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.deps.json
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\bin\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.dll
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\bin\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.pdb
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.AssemblyInfo.cs
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.dll
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.pdb
+C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse.Shared\obj\Debug\netstandard2.0\Blazor_GettingStartedCourse.Shared.csprojAssemblyReference.cache

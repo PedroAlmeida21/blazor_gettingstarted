@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\Blazor_GettingStartedCourse\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/BethanysPieShopHRM.ComponentsLibrary" Path="C:\Users\pedro.almeida\Desktop\Learn to Code\Blazor\GettingStartedCourse\Blazor_GettingStartedCourse\BethanysPieShopHRM.ComponentsLibrary\wwwroot\" />
+</StaticWebAssets>

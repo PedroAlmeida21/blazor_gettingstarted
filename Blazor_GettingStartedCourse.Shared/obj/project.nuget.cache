@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uy0T/hlVW0d+ApFtKKC+sT0pxiIcuZ4gM/59xmJAoAzkQCYq06Nq//RMAPHzHjgauHCBM7n3F88wYURQ9fdJsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro.almeida\\Desktop\\Learn to Code\\Blazor\\GettingStartedCourse\\Blazor_GettingStartedCourse\\Blazor_GettingStartedCourse.Shared\\Blazor_GettingStartedCourse.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.almeida\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro.almeida\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro.almeida\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
